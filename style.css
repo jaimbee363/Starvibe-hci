@@ -1,0 +1,8 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #111; color: #eee; }
+header { background: #222; padding: 20px; text-align: center; }
+nav ul { list-style-type: none; padding: 0; display: flex; justify-content: center; }
+nav li { margin: 0 15px; }
+nav a { color: #0ff; text-decoration: none; font-weight: bold; }
+main { padding: 20px; background: #1c1c1c; }
+footer { background: #222; text-align: center; padding: 10px; }
